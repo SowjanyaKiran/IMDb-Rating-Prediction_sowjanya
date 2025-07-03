@@ -1,7 +1,8 @@
-#IMDb Rating Prediction Using Machine Learning#
+IMDb Rating Prediction Using Machine Learning
+
 This repository contains a Machine Learning project that aims to predict the IMDb ratings of TV shows based on features such as title, genre, year of release, and number of votes. The project involves data preprocessing, visualization, feature engineering, model training, evaluation, and prediction using the IMDb Top 250 dataset.
 
-#Contents#
+#Contents
 Dataset: Contains details like show title, genre, release year, IMDb votes, ratings, director, and more.
 Preprocessing: Data cleaning, handling missing values, encoding categorical variables (e.g., Genre).
 Visualization: Statistical charts and plots showing trends in ratings, votes, genres, and more.
